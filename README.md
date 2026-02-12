@@ -74,3 +74,9 @@ Then open `output.csv` in LibreOffice and **Save As → `.xlsx`**.
 - Python 3.8+ (for text conversion)
 - Java Runtime Environment (for PDF table extraction)
 - LibreOffice or Excel for final formatting
+
+---
+
+## License
+
+MIT License. See `LICENSE`.
